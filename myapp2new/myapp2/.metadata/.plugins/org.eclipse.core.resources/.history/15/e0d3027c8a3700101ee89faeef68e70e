@@ -1,0 +1,5 @@
+package lk.ac.vau.fas.ict.exceptionHandler;
+
+public class GenericExceptionHandler {
+
+}
